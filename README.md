@@ -23,6 +23,7 @@
 - [x] Voltar para Home
 
 <br/>
+OBS: Todos projetos fazem parte do meu aprendizado constante, portanto é normal que uns estejam mais organizados e otimizados que outros.
 <br/>
 
 [<code><img height="50" src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png"></code>]
